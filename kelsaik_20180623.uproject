@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{68D89138-4AF1-BC86-7AEF-5EAF7B49F1C2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "kelsaik_20180623",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
